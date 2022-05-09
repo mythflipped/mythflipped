@@ -8,7 +8,3 @@
 - My undergraduate thesis is about human motion recognition simulation
 
 ![Tony Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mythflipped&show_icons=true&theme=gruvbox)
-
-- My Most Used Language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythflipped&layout=compact)](https://github.com/mythflipped/github-readme-stats)

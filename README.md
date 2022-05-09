@@ -1,16 +1,11 @@
-### Hi there 👋
+### Welcome Tony Jiang's Profile 👋
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11811003@mail.sustech.edu.cn)](mailto:11811003@mail.sustech.edu.cn)
+- I'm an undergraduate Student of [SUSTech](https://www.sustech.edu.cn/).
+- Major in Communication Engineering
+- I'll go to [KTH Royal Institute of Technology](https://www.kth.se/en) in 2022 to start my master's study 
+- Skills: MATLAB/JAVA/Python and a little bit C++.
+- My advisor in SUSTech is [Dr.Ray Wang](https://eee.sustech.edu.cn/p/wangrui/)
+- My undergraduate thesis is about human motion recognition simulation
 
-<!--
-**mythflipped/mythflipped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tony Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mythflipped&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythflipped&layout=compact)](https://github.com/mythflipped/github-readme-stats)

@@ -8,4 +8,9 @@
 - My advisor in SUSTech is [Dr.Ray Wang](https://eee.sustech.edu.cn/p/wangrui/)
 - My undergraduate thesis is about human motion recognition simulation and classification
 
+
+
+<a href="https://github.com/mythflipped/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neelabhro&show_icons=true&theme=dark&show=stars&include_all_commits=true" />
+</a>
 ![Tony Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mythflipped&show_icons=true&theme=gruvbox)

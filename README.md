@@ -11,9 +11,8 @@
 
 
 <a href="https://github.com/mythflipped/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neelabhro&show_icons=true&theme=dark&show=stars&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mythflipped&show_icons=true&theme=dark&show=stars&include_all_commits=true" />
 </a>
 
 
 
-[![Pengzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mythflipped/github-readme-stats)

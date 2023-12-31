@@ -7,7 +7,9 @@
 - Skills: MATLAB/JAVA/Python/nesC(TinyOS) and a little bit C++.
 - My advisor in SUSTech is [Dr.Ray Wang](https://eee.sustech.edu.cn/p/wangrui/)
 - My undergraduate thesis is about human motion recognition simulation and classification
-
+- Master Thesis at [Scania AB](https://www.scania.com/)
+- My supervisor at Scania is Dr. Yi Feng
+- My supervisor at KTH is [Mats Bengtsson](https://www.kth.se/profile/matben)
 
 
 <a href="https://github.com/mythflipped/github-readme-stats">

@@ -10,7 +10,7 @@
 - Master Thesis at [Scania AB](https://www.scania.com/)
 - My supervisor at Scania is Dr. Yi Feng
 - My supervisor at KTH is [Mats Bengtsson](https://www.kth.se/profile/matben)
-
+- My master thesis is about V2N communication in real environment
 
 <a href="https://github.com/mythflipped/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mythflipped&show_icons=true&theme=dark&show=stars&include_all_commits=true" />
